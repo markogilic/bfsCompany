@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bfsCompany/static/css/main.36b19e7f.css",
+    "main.js": "/bfsCompany/static/js/main.6d22acb6.js",
+    "static/media/landing-page.jpg": "/bfsCompany/static/media/landing-page.066f7a6df55a24b87d3b.jpg",
+    "static/media/o_nama_bfs.jpg": "/bfsCompany/static/media/o_nama_bfs.10bac2b6e6eb1b5d0dab.jpg",
+    "static/media/profile_image_mirjana.JPG": "/bfsCompany/static/media/profile_image_mirjana.e5e1d6954dd21c8a0ab0.JPG",
+    "static/media/marko_gilic_it_konsultant.JPG": "/bfsCompany/static/media/marko_gilic_it_konsultant.8f9c8cd5933c50cfc1ed.JPG",
+    "static/media/newsletter_2.jpg": "/bfsCompany/static/media/newsletter_2.66147ac361d979764875.jpg",
+    "static/media/kurs_3.jpg": "/bfsCompany/static/media/kurs_3.828186506d1f8f3b2921.jpg",
+    "static/media/kurs_1.jpg": "/bfsCompany/static/media/kurs_1.682ecea9c915064f6a73.jpg",
+    "static/media/kurs_2.jpg": "/bfsCompany/static/media/kurs_2.f21f4244cd4273975436.jpg",
+    "static/media/bojana_rudovic_mkt.jpg": "/bfsCompany/static/media/bojana_rudovic_mkt.cf4289e6de3c600d9f5c.jpg",
+    "static/media/kurs_4.jpg": "/bfsCompany/static/media/kurs_4.2202c8a0d8b4bd660ccf.jpg",
+    "static/media/newsletter_1.jpg": "/bfsCompany/static/media/newsletter_1.a6691690926673b611fc.jpg",
+    "static/media/Molde-SemiCondensed-Semibold.ttf": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.448b90ea401abf35f518.ttf",
+    "static/media/logo_bfs_png.png": "/bfsCompany/static/media/logo_bfs_png.8094ac463b1c397be2e1.png",
+    "static/media/newsletter_3.jpg": "/bfsCompany/static/media/newsletter_3.1b2348395e0d44bc238e.jpg",
+    "static/media/contact_2.jpg": "/bfsCompany/static/media/contact_2.2daf79a2230a25c4edbe.jpg",
+    "static/media/Molde-SemiCondensed-Semibold.woff": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.871bb1fb16840187a529.woff",
+    "static/media/Molde-SemiCondensed-Semibold.woff2": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.e5abc95122a2c969c92b.woff2",
+    "index.html": "/bfsCompany/index.html",
+    "main.36b19e7f.css.map": "/bfsCompany/static/css/main.36b19e7f.css.map",
+    "main.6d22acb6.js.map": "/bfsCompany/static/js/main.6d22acb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b19e7f.css",
+    "static/js/main.6d22acb6.js"
+  ]
+}
