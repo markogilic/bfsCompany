@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/bfsCompany/static/css/main.45f181e8.css",
-    "main.js": "/bfsCompany/static/js/main.b64aba93.js",
+    "main.css": "/bfsCompany/static/css/main.4ee36c72.css",
+    "main.js": "/bfsCompany/static/js/main.580fe997.js",
     "static/media/newsletter_4.jpg": "/bfsCompany/static/media/newsletter_4.c59f342cc0349fb3a4a6.jpg",
     "static/media/landing_page2.jpg": "/bfsCompany/static/media/landing_page2.f7a18c943e063948fa14.jpg",
     "static/media/o_nama_bfs.jpg": "/bfsCompany/static/media/o_nama_bfs.10bac2b6e6eb1b5d0dab.jpg",
     "static/media/profile_image_mirjana.JPG": "/bfsCompany/static/media/profile_image_mirjana.e5e1d6954dd21c8a0ab0.JPG",
     "static/media/marko_gilic_it_konsultant.JPG": "/bfsCompany/static/media/marko_gilic_it_konsultant.8f9c8cd5933c50cfc1ed.JPG",
+    "static/media/mobile_landign_page.jpg": "/bfsCompany/static/media/mobile_landign_page.4e08dac5d16193447e98.jpg",
     "static/media/newsletter_2.jpg": "/bfsCompany/static/media/newsletter_2.66147ac361d979764875.jpg",
     "static/media/kurs_3.jpg": "/bfsCompany/static/media/kurs_3.828186506d1f8f3b2921.jpg",
     "static/media/kurs_1.jpg": "/bfsCompany/static/media/kurs_1.682ecea9c915064f6a73.jpg",
@@ -23,11 +24,11 @@
     "static/media/Molde-SemiCondensed-Semibold.woff": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.871bb1fb16840187a529.woff",
     "static/media/Molde-SemiCondensed-Semibold.woff2": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.e5abc95122a2c969c92b.woff2",
     "index.html": "/bfsCompany/index.html",
-    "main.45f181e8.css.map": "/bfsCompany/static/css/main.45f181e8.css.map",
-    "main.b64aba93.js.map": "/bfsCompany/static/js/main.b64aba93.js.map"
+    "main.4ee36c72.css.map": "/bfsCompany/static/css/main.4ee36c72.css.map",
+    "main.580fe997.js.map": "/bfsCompany/static/js/main.580fe997.js.map"
   },
   "entrypoints": [
-    "static/css/main.45f181e8.css",
-    "static/js/main.b64aba93.js"
+    "static/css/main.4ee36c72.css",
+    "static/js/main.580fe997.js"
   ]
 }
