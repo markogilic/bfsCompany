@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bfsCompany/static/css/main.0ba18fd0.css",
+    "main.css": "/bfsCompany/static/css/main.384a570b.css",
     "main.js": "/bfsCompany/static/js/main.580fe997.js",
     "static/media/newsletter_4.jpg": "/bfsCompany/static/media/newsletter_4.c59f342cc0349fb3a4a6.jpg",
     "static/media/landing_page_test.jpg": "/bfsCompany/static/media/landing_page_test.f7a18c943e063948fa14.jpg",
@@ -24,11 +24,11 @@
     "static/media/Molde-SemiCondensed-Semibold.woff": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.871bb1fb16840187a529.woff",
     "static/media/Molde-SemiCondensed-Semibold.woff2": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.e5abc95122a2c969c92b.woff2",
     "index.html": "/bfsCompany/index.html",
-    "main.0ba18fd0.css.map": "/bfsCompany/static/css/main.0ba18fd0.css.map",
+    "main.384a570b.css.map": "/bfsCompany/static/css/main.384a570b.css.map",
     "main.580fe997.js.map": "/bfsCompany/static/js/main.580fe997.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ba18fd0.css",
+    "static/css/main.384a570b.css",
     "static/js/main.580fe997.js"
   ]
 }
