@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bfsCompany/static/css/main.384a570b.css",
-    "main.js": "/bfsCompany/static/js/main.580fe997.js",
+    "main.css": "/bfsCompany/static/css/main.ec9ba7f9.css",
+    "main.js": "/bfsCompany/static/js/main.ca8ecb1a.js",
     "static/media/newsletter_4.jpg": "/bfsCompany/static/media/newsletter_4.c59f342cc0349fb3a4a6.jpg",
     "static/media/landing_page_test.jpg": "/bfsCompany/static/media/landing_page_test.f7a18c943e063948fa14.jpg",
     "static/media/o_nama_bfs.jpg": "/bfsCompany/static/media/o_nama_bfs.10bac2b6e6eb1b5d0dab.jpg",
     "static/media/profile_image_mirjana.JPG": "/bfsCompany/static/media/profile_image_mirjana.e5e1d6954dd21c8a0ab0.JPG",
     "static/media/marko_gilic_it_konsultant.JPG": "/bfsCompany/static/media/marko_gilic_it_konsultant.8f9c8cd5933c50cfc1ed.JPG",
-    "static/media/mobile_landign_page.jpg": "/bfsCompany/static/media/mobile_landign_page.4e08dac5d16193447e98.jpg",
     "static/media/newsletter_2.jpg": "/bfsCompany/static/media/newsletter_2.66147ac361d979764875.jpg",
     "static/media/kurs_3.jpg": "/bfsCompany/static/media/kurs_3.828186506d1f8f3b2921.jpg",
     "static/media/kurs_1.jpg": "/bfsCompany/static/media/kurs_1.682ecea9c915064f6a73.jpg",
     "static/media/kurs_2.jpg": "/bfsCompany/static/media/kurs_2.f21f4244cd4273975436.jpg",
     "static/media/bojana_rudovic_mkt.jpg": "/bfsCompany/static/media/bojana_rudovic_mkt.cf4289e6de3c600d9f5c.jpg",
+    "static/media/mobile_landign_page3.jpg": "/bfsCompany/static/media/mobile_landign_page3.2406700f0924b571c0e3.jpg",
     "static/media/kurs_4.jpg": "/bfsCompany/static/media/kurs_4.2202c8a0d8b4bd660ccf.jpg",
     "static/media/logo_bfs_co.png": "/bfsCompany/static/media/logo_bfs_co.a2fd187bf4b668a316ec.png",
     "static/media/newsletter_3.jpg": "/bfsCompany/static/media/newsletter_3.42b2f5bd708422baa768.jpg",
@@ -24,11 +24,11 @@
     "static/media/Molde-SemiCondensed-Semibold.woff": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.871bb1fb16840187a529.woff",
     "static/media/Molde-SemiCondensed-Semibold.woff2": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.e5abc95122a2c969c92b.woff2",
     "index.html": "/bfsCompany/index.html",
-    "main.384a570b.css.map": "/bfsCompany/static/css/main.384a570b.css.map",
-    "main.580fe997.js.map": "/bfsCompany/static/js/main.580fe997.js.map"
+    "main.ec9ba7f9.css.map": "/bfsCompany/static/css/main.ec9ba7f9.css.map",
+    "main.ca8ecb1a.js.map": "/bfsCompany/static/js/main.ca8ecb1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.384a570b.css",
-    "static/js/main.580fe997.js"
+    "static/css/main.ec9ba7f9.css",
+    "static/js/main.ca8ecb1a.js"
   ]
 }
