@@ -9,12 +9,12 @@
 
     "sadrzajKursa": "Napredovao si na veću poziciju, ideš na bitne sastanke ali i dalje ne znaš sve ključne pojmove iz rezultata poslovanja? Šta je Opex, Capex, Goodwill, povrat investicije... Ovaj program je za tebe!\nŽeliš da napreduješ na veću poziciju, ali ne znaš kako da sagledaš širu sliku poslovanja kompanije? Koja je veza izmedju prometa, profitabilnosti, zaliha i gotovine... Ovaj program je za tebe! Smatraš da će znanje iz oblasti finansija upotpuniti tvoj portfolio menadžera i uticati pozitivno u budućnosti? U pravu si! Prijavi se!",
     "stavkeKursa": {
-      "1": "Uvod u finansijski kontroling (funkcija u organizaciji, odgovornosti, opšti pojmovi i skraćenice:BS, BU, BI, BUD, B2B,CF, EX, OPEX, GM...)",
-      "2": "Mesečni paket izvestavanja profitabilnosti kompanije (P&amp;L, rezultati poslovanja, prezentacija poslovanja, prikaz rezultata u odnosu na budžet, na forcast, na prethodnu godinu...)",
+      "1": "Uvod u finansijski kontroling (funkcija u organizaciji, odgovornosti, opšti pojmovi i skraćenice: BS, BU, BI, BUD, B2B, CF, EX, OPEX, GM...)",
+      "2": "Mesečni paket izveštavanja profitabilnosti kompanije (P&L, rezultati poslovanja, prezentacija poslovanja, prikaz rezultata u odnosu na budžet, na forcast, na prethodnu godinu...)",
       "3": "CashFlow, Zalihe i Potraživanja (Bilans stanja)",
       "4": "Sales Controling (promet, prihod, pdv, nabavna vrednost, rabati, profitabilnot robne grupe/kupca)"
     },
-    "ostalo": "Matrijal edukacije podrazumeva prezentaciju koja se prolazi uz sve primere u excelu, a sav materijal polaznik edukacije dobija nakon svakog održanog predavanja."
+    "ostalo": "Materijal edukacije podrazumeva prezentaciju koja se prolazi uz sve primere u excelu, a sav materijal polaznik edukacije dobija nakon svakog održanog predavanja."
   },
   {
     "id": "2",
@@ -24,15 +24,15 @@
     "trajanje": "na upit//po dogovoru",
     "lokacija": "Online",
 
-    "sadrzajKursa": "Vodiš firmu ali želiš bolje da razumeš rezultate koje dostižeš i da li bi to moglo bolje? Ovaj program je za tebe! Razmišljaš da uvedeš novi proizvod ili uslugu ali ne znaš kako će to uticati na poslovanje u budućnosti? ram je za tebe! Tvoja firma sjajno posluje ali ipak nema definisan pla    Ovaj progn i budžet za naredne godine? Ovaj program je za tebe! Program finansijskog mentorstva ima za cilj da unapredi poslovanje preduzetnika kroz sagledavanje finansijskih pokazatelja firme i postavke praćenja tih pokazatelja u budućnosti. Dužina programa definiše se sa preduzetnikom u odnosu na potrebe samog biznisa i pitanja na kojem se radi.",
+    "sadrzajKursa": "Vodiš firmu ali želiš bolje da razumeš rezultate koje dostižeš i da li bi to moglo bolje? Ovaj program je za tebe! Razmišljaš da uvedeš novi proizvod ili uslugu ali ne znaš kako će to uticati na poslovanje u budućnosti? Ovaj program je za tebe! Tvoja firma sjajno posluje ali ipak nema definisan plan i budžet za naredne godine? Ovaj program je za tebe! Program finansijskog mentorstva ima za cilj da unapredi poslovanje preduzetnika kroz sagledavanje finansijskih pokazatelja firme i postavke praćenja tih pokazatelja u budućnosti. Dužina programa definiše se sa preduzetnikom u odnosu na potrebe samog biznisa i pitanja na kojem se radi.",
     "stavkeKursa": {
-      "1": "Šire sagledavanje biznisa – strategija prodaje naših proizvoda, distribucija, nabavka, marketing, novi proizvodi, jačanje brenda;",
+      "1": "Šire sagledavanje biznisa – strategija prodaje proizvoda, distribucija, nabavka, marketing, novi proizvodi, jačanje brenda;",
       "2": "Analiza biznisa kroz rezultate i brojke – profitabilnost firme, proizvoda, troškovi, zalihe, potraživanja, racio pokazatelji;",
       "3": "Budžet – definisanje planova za rast u narednim godinama;",
       "4": "Postavku određenih izveštajnih paketa – za bolje praćenje prodaje, marže, nabavke, naplate;",
       "5": "Rad u excelu – svi izveštaji biće podešeni kroz excel i lako upravljivi;"
     },
-    "ostalo": "Matrijal edukacije podrazumeva prezentaciju koja se prolazi uz sve primere u excelu, a sav materijal polaznik edukacije dobija nakon svakog održanog predavanja."
+    "ostalo": "Sav materijal polaznik dobija nakon svakog održanog mentorskog susreta."
   },
   {
     "id": "3",
@@ -40,17 +40,17 @@
 
     "tipPrograma": "Grupni program",
     "trajanje": "8h (1 sesija)",
-    "lokacija": "Offline (in-house ili prilagodjeno lokaciji klijenta)",
-    "sadrzajKursa": "Program u osnovi namenjen prodajnim timovima, ali i svim timovima koji u svom poslu veliki deo provode u aktivnostima pregovaranja. U svetu gde veštačka inteligencija dobija na značaju, nikada nije bilo važnije raditi na kreiranju emocionalno inteligentnih timova. Šta predstavlja emocionalna inteligencija i kako se ona razvija? Kako nam ona može pomoći da postanemo uspešniji pregovarači, koje su to tehnike i uvidi? Kako komunicirati sa &quot;teškim&quot; kupcima ili &quot;teškim&quot; kolegama? To su samo neka od pitanja koja se obrađuju na ovom programu.",
+    "lokacija": "Online/Offline (in-house ili prilagodjeno lokaciji klijenta)",
+    "sadrzajKursa": "Program u osnovi namenjen prodajnim timovima, ali i svim timovima i pojedincima koji u svom poslu veliki deo provode u aktivnostima pregovaranja. U svetu gde veštačka inteligencija dobija na značaju, nikada nije bilo važnije raditi na kreiranju emocionalno inteligentnih timova. Šta predstavlja emocionalna inteligencija i kako se ona razvija? Kako nam ona može pomoći da postanemo uspešniji pregovarači, koje su to tehnike i uvidi? Kako komunicirati sa 'teškim' kupcima ili 'teškim' kolegama? To su samo neka od pitanja koja se obrađuju na ovom programu.",
     "stavkeKursa": {
       "1": "Razumevanje definicije emocionalne inteligencije i kako ona utiče na biznis;",
       "2": "Prolazak kroz četiri stuba emocionalne inteligencije (samosvest, samoregulacija, društvena svest i društveni uticaj), kao i detaljan pristup svakoj od njih;",
       "3": "Tehnike za razvoj emocionalne inteligencije u pregovaranju;",
       "4": "„Ako ne možemo drugačije, onda ćemo pošteno.“ Etika u pregovaranju;",
-      "5": "Za uspešne pregovore, priprema je pola posla: Da li možemo pripremiti svoje emocije? - Interaktivna radionica sa zadatkom;",
-      "6": "Razvoj emocionalno inteligentnih timova;"
+      "5": "Razvoj emocionalno inteligentnih lidera, timova i organizacija;",
+      "6": "Feedback-interaktivna radionica sa zadatkom;"
     },
-    "ostalo": "Matrijal edukacije podrazumeva prezentaciju koja se prolazi uz sve primere u excelu, a sav materijal polaznik edukacije dobija nakon svakog održanog predavanja."
+    "ostalo": ""
   },
   {
     "id": "4",
@@ -58,7 +58,7 @@
 
     "tipPrograma": "Grupni program",
     "trajanje": "1 mesec (4 sesije po 2.5 h – subotom/nedeljom od 10 do 12.30h)",
-    "lokacija": "Offline (Belvil, Novi Beograd, Jurija Gagarina 14)",
+    "lokacija": "Belvil, Novi Beograd, Jurija Gagarina 14",
     "sadrzajKursa": "Studije potvrdjuju da se lideri ne radjaju, već da se stvaraju. Ali, kao i u svemu, vreme igra ključnu ulogu i zato je potrebno krenuti na vreme. Ovaj program osmišljen je za decu uzrasta od 14 do 17 godina i od 18 do 21 godina, i uvodi decu u ključne pojmove iz oblasti liderstva sa interaktivnim radionicama prilagodjenim uzrastu.",
     "stavkeKursa": {
       "1": "Razumevanje definicije liderstva; Koliko su bitni ciljevi, vizija, samopouzdanje, etika;",
