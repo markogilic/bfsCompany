@@ -4,13 +4,13 @@
     "title": "FINANSIJSKI KONTROLING ZA MENADŽERE",
 
     "tipPrograma": "Individualni program 1:1",
-    "trajanje": "8 sati(4sesije po 2h)",
+    "trajanje": "8 sati (4sesije po 2h)",
     "lokacija": "Online",
 
-    "sadrzajKursa": "Napredovao si na veću poziciju, ideš na bitne sastanke ali i dalje ne znaš sve ključne pojmove iz rezultata poslovanja? Šta je Opex, Capex, Goodwill, povrat investicije... Ovaj program je za tebe!\nŽeliš da napreduješ na veću poziciju, ali ne znaš kako da sagledaš širu sliku poslovanja kompanije? Koja je veza izmedju prometa, profitabilnosti, zaliha i gotovine... Ovaj program je za tebe! Smatraš da će znanje iz oblasti finansija upotpuniti tvoj portfolio menadžera i uticati pozitivno u budućnosti? U pravu si! Prijavi se!",
+    "sadrzajKursa": "Napredovao si na veću poziciju, ideš na bitne sastanke ali i dalje ne znaš sve ključne pojmove iz rezultata poslovanja? Šta je Opex, Capex, Goodwill, povrat investicije? Ovaj program je za tebe!\nŽeliš da napreduješ na veću poziciju, ali ne znaš kako da sagledaš širu sliku poslovanja kompanije? Koja je veza izmedju prometa, profitabilnosti, zaliha i gotovine? Ovaj program je za tebe! Smatraš da će znanje iz oblasti finansija upotpuniti tvoj portfolio menadžera i uticati pozitivno u budućnosti? U pravu si! Prijavi se!",
     "stavkeKursa": {
-      "1": "Uvod u finansijski kontroling (funkcija u organizaciji, odgovornosti, opšti pojmovi i skraćenice: BS, BU, BI, BUD, B2B, CF, EX, OPEX, GM...)",
-      "2": "Mesečni paket izveštavanja profitabilnosti kompanije (P&L, rezultati poslovanja, prezentacija poslovanja, prikaz rezultata u odnosu na budžet, na forcast, na prethodnu godinu...)",
+      "1": "Uvod u finansijski kontroling (funkcija u organizaciji, odgovornosti, opšti pojmovi i skraćenice: BS, BU, BI, BUD, B2B, CF, EX, OPEX, GM)",
+      "2": "Mesečni paket izveštavanja profitabilnosti kompanije (P&L, rezultati poslovanja, prezentacija poslovanja, prikaz rezultata u odnosu na budžet, na forcast, na prethodnu godinu)",
       "3": "CashFlow, Zalihe i Potraživanja (Bilans stanja)",
       "4": "Sales Controling (promet, prihod, pdv, nabavna vrednost, rabati, profitabilnot robne grupe/kupca)"
     },
@@ -54,7 +54,7 @@
   },
   {
     "id": "4",
-    "title": "LIDERSTVO ZA MLADE",
+    "title": "PROGRAM LIDEERSTVA ZA MLADE",
 
     "tipPrograma": "Grupni program",
     "trajanje": "1 mesec (4 sesije po 2.5 h – subotom/nedeljom od 10 do 12.30h)",
