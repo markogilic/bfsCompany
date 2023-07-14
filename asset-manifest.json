@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bfsCompany/static/css/main.dcbc4679.css",
-    "main.js": "/bfsCompany/static/js/main.b3696224.js",
+    "main.css": "/bfsCompany/static/css/main.64db75a8.css",
+    "main.js": "/bfsCompany/static/js/main.46d6d147.js",
     "static/media/newsletter_4.jpg": "/bfsCompany/static/media/newsletter_4.c59f342cc0349fb3a4a6.jpg",
     "static/media/landing_page_test.jpg": "/bfsCompany/static/media/landing_page_test.f7a18c943e063948fa14.jpg",
     "static/media/o_nama_bfs.jpg": "/bfsCompany/static/media/o_nama_bfs.10bac2b6e6eb1b5d0dab.jpg",
@@ -14,7 +14,7 @@
     "static/media/kurs_2.jpg": "/bfsCompany/static/media/kurs_2.f21f4244cd4273975436.jpg",
     "static/media/bojana_rudovic_mkt.jpg": "/bfsCompany/static/media/bojana_rudovic_mkt.cf4289e6de3c600d9f5c.jpg",
     "static/media/kurs_4.jpg": "/bfsCompany/static/media/kurs_4.2202c8a0d8b4bd660ccf.jpg",
-    "static/media/logo_bfs_co.png": "/bfsCompany/static/media/logo_bfs_co.b6ba5fed33f40f4d2375.png",
+    "static/media/logo_bfs_co2.png": "/bfsCompany/static/media/logo_bfs_co2.6e0f7bc5e0cf28bdae87.png",
     "static/media/newsletter_3.jpg": "/bfsCompany/static/media/newsletter_3.42b2f5bd708422baa768.jpg",
     "static/media/newsletter_1.jpg": "/bfsCompany/static/media/newsletter_1.a6691690926673b611fc.jpg",
     "static/media/Molde-SemiCondensed-Semibold.ttf": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.448b90ea401abf35f518.ttf",
@@ -24,11 +24,11 @@
     "static/media/Molde-SemiCondensed-Semibold.woff": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.871bb1fb16840187a529.woff",
     "static/media/Molde-SemiCondensed-Semibold.woff2": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.e5abc95122a2c969c92b.woff2",
     "index.html": "/bfsCompany/index.html",
-    "main.dcbc4679.css.map": "/bfsCompany/static/css/main.dcbc4679.css.map",
-    "main.b3696224.js.map": "/bfsCompany/static/js/main.b3696224.js.map"
+    "main.64db75a8.css.map": "/bfsCompany/static/css/main.64db75a8.css.map",
+    "main.46d6d147.js.map": "/bfsCompany/static/js/main.46d6d147.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcbc4679.css",
-    "static/js/main.b3696224.js"
+    "static/css/main.64db75a8.css",
+    "static/js/main.46d6d147.js"
   ]
 }
