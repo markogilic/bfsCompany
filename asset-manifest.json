@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bfsCompany/static/css/main.3c501e00.css",
-    "main.js": "/bfsCompany/static/js/main.7e9a58f4.js",
+    "main.css": "/bfsCompany/static/css/main.bf0f068d.css",
+    "main.js": "/bfsCompany/static/js/main.302d2dd4.js",
     "static/media/newsletter_4.jpg": "/bfsCompany/static/media/newsletter_4.c59f342cc0349fb3a4a6.jpg",
     "static/media/landing_page_test.jpg": "/bfsCompany/static/media/landing_page_test.f7a18c943e063948fa14.jpg",
     "static/media/o_nama_bfs.jpg": "/bfsCompany/static/media/o_nama_bfs.10bac2b6e6eb1b5d0dab.jpg",
@@ -24,11 +24,11 @@
     "static/media/Molde-SemiCondensed-Semibold.woff": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.871bb1fb16840187a529.woff",
     "static/media/Molde-SemiCondensed-Semibold.woff2": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.e5abc95122a2c969c92b.woff2",
     "index.html": "/bfsCompany/index.html",
-    "main.3c501e00.css.map": "/bfsCompany/static/css/main.3c501e00.css.map",
-    "main.7e9a58f4.js.map": "/bfsCompany/static/js/main.7e9a58f4.js.map"
+    "main.bf0f068d.css.map": "/bfsCompany/static/css/main.bf0f068d.css.map",
+    "main.302d2dd4.js.map": "/bfsCompany/static/js/main.302d2dd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c501e00.css",
-    "static/js/main.7e9a58f4.js"
+    "static/css/main.bf0f068d.css",
+    "static/js/main.302d2dd4.js"
   ]
 }
