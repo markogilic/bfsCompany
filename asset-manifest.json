@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bfsCompany/static/css/main.2667a9f5.css",
-    "main.js": "/bfsCompany/static/js/main.b16bd9e8.js",
+    "main.js": "/bfsCompany/static/js/main.9709a525.js",
     "static/media/landing_page_test.jpg": "/bfsCompany/static/media/landing_page_test.f7a18c943e063948fa14.jpg",
     "static/media/o_nama_bfs.jpg": "/bfsCompany/static/media/o_nama_bfs.10bac2b6e6eb1b5d0dab.jpg",
     "static/media/profile_image_mirjana.JPG": "/bfsCompany/static/media/profile_image_mirjana.e5e1d6954dd21c8a0ab0.JPG",
@@ -25,10 +25,10 @@
     "static/media/Molde-SemiCondensed-Semibold.woff2": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.e5abc95122a2c969c92b.woff2",
     "index.html": "/bfsCompany/index.html",
     "main.2667a9f5.css.map": "/bfsCompany/static/css/main.2667a9f5.css.map",
-    "main.b16bd9e8.js.map": "/bfsCompany/static/js/main.b16bd9e8.js.map"
+    "main.9709a525.js.map": "/bfsCompany/static/js/main.9709a525.js.map"
   },
   "entrypoints": [
     "static/css/main.2667a9f5.css",
-    "static/js/main.b16bd9e8.js"
+    "static/js/main.9709a525.js"
   ]
 }
