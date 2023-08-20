@@ -64,7 +64,8 @@
     "tipPrograma": "Individualni program 1:1",
     "trajanje": "1h",
     "lokacija": "Online",
-    "cena": "50€ (plaćanje se vrši u dinarskoj protivvrednosti po srednjem kursu Narodne banke Srbije na dan plaćanja)",
+    "cena": "50€ ",
+    "infoPlacanje": "*(plaćanje se vrši u dinarskoj protivvrednosti po srednjem kursu Narodne banke Srbije na dan plaćanja)",
     "sadrzajKursa": "Imaš bitan razgovor za posao i želeo bi da prodješ što bolje? Prijavi se na ovaj individualni program koji će te pripremiti za tako važan, ali i stresan dogadjaj u poslovnom životu. Nameravaš da menjaš posao i razmišljaš da apliciraš, ali nisi siguran da li je tvoj CV dobar i šta te čeka na novom intervjuu? Prijavi se za ovaj program i saznaj! Dobrom pripremom podiže se samopouzdanje, smanjuje se trema, što dovodi do uspeha i boljih rezultata na razgovorima za posao!",
     "stavkeKursa": {
       "1": "Prolazak kroz sva potencijalna pitanja, priprema odgovarajućih odgovora;",
