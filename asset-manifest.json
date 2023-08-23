@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bfsCompany/static/css/main.d4d5c3cf.css",
-    "main.js": "/bfsCompany/static/js/main.2c0f6d7f.js",
+    "main.css": "/bfsCompany/static/css/main.6da8fb6e.css",
+    "main.js": "/bfsCompany/static/js/main.13a7a0e9.js",
     "static/media/landing_page_test.jpg": "/bfsCompany/static/media/landing_page_test.f7a18c943e063948fa14.jpg",
     "static/media/o_nama_bfs.jpg": "/bfsCompany/static/media/o_nama_bfs.10bac2b6e6eb1b5d0dab.jpg",
     "static/media/profile_image_mirjana.JPG": "/bfsCompany/static/media/profile_image_mirjana.e5e1d6954dd21c8a0ab0.JPG",
@@ -24,11 +24,11 @@
     "static/media/Molde-SemiCondensed-Semibold.woff": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.871bb1fb16840187a529.woff",
     "static/media/Molde-SemiCondensed-Semibold.woff2": "/bfsCompany/static/media/Molde-SemiCondensed-Semibold.e5abc95122a2c969c92b.woff2",
     "index.html": "/bfsCompany/index.html",
-    "main.d4d5c3cf.css.map": "/bfsCompany/static/css/main.d4d5c3cf.css.map",
-    "main.2c0f6d7f.js.map": "/bfsCompany/static/js/main.2c0f6d7f.js.map"
+    "main.6da8fb6e.css.map": "/bfsCompany/static/css/main.6da8fb6e.css.map",
+    "main.13a7a0e9.js.map": "/bfsCompany/static/js/main.13a7a0e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4d5c3cf.css",
-    "static/js/main.2c0f6d7f.js"
+    "static/css/main.6da8fb6e.css",
+    "static/js/main.13a7a0e9.js"
   ]
 }
